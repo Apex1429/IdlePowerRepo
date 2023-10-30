@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Apex1/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/Structs/Stuct_Stats.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/Structs/ResourceTable.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/UserInterface/BP_HUDShop.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/UserInterface/BP_HUDResearch.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/UserInterface/BP_HUDMain.uasset",
 				"/Users/alexanderfernandez/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/UserInterface/BP_HUDStats.uasset",
 				"/Users/alexanderfernandez/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/Blueprints/BP_PlayerController.uasset",
 				"/Users/alexanderfernandez/Documents/Unreal Projects/IdlePowerRepo/IdlePower/Content/UserInterface/BP_HUDShop.uasset",
